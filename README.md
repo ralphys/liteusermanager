@@ -1,7 +1,5 @@
-Lite User Manager [![Build Status][BS img]][Build Status]
+Lite User Manager
 =================
-[Build Status]: https://travis-ci.org/shaggytwodope/liteusermanager
-[BS img]: https://api.travis-ci.org/shaggytwodope/liteusermanager.png
 
 A tool to help you easily manage users and groups on Linux Lite.
 
@@ -14,5 +12,4 @@ This project is under the GPLv2 license.
 ##Authors 
 - [Jerry Bezencon](https://github.com/linuxlite/)
 - [Johnathan "ShaggyTwoDope" Jenkins](https://github.com/shaggytwodope/)
-
-
+- Vladislav Bychkov
