@@ -1,0 +1,13 @@
+Package: lite-usermanager
+Version: 2.0-0040-linuxlite
+Essential: yes
+Section: base
+Priority: required
+Installed-Size: 78
+Depends: menu, python-pexpect
+Homepage: http://www.linuxliteos.com
+Maintainer: Jerry Bezencon <valtam@linuxliteos.com> Johnathan Jenkins <twodopeshaggy@gmail.com> Vladislav Bychkov
+Architecture: all
+Description: Linux Lite User Manager
+ A tool to help you easily manage users and groups on Linux Lite.
+
