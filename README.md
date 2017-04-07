@@ -11,5 +11,6 @@ This project is under the GPLv2 license.
 
 ##Authors 
 - [Jerry Bezencon](https://github.com/linuxlite/)
-- [Johnathan "ShaggyTwoDope" Jenkins](https://github.com/shaggytwodope/)
+- [Johnathan Jenkins](https://github.com/shaggytwodope/)
+- [Ralphy](https://github.com/ralphys/)
 - Vladislav Bychkov
