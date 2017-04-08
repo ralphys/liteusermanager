@@ -3,7 +3,7 @@ Lite User Manager
 
 A tool to help you easily manage users and groups on Linux Lite.
 
-![](http://i.imgur.com/uvzYj3s.png)
+![](http://i.imgur.com/Mu1yH8W.png)
 
 ## License ![License](https://img.shields.io/badge/license-GPLv2-green.svg)
 
