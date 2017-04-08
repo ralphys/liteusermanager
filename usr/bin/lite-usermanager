@@ -1,9 +1,11 @@
 #!/usr/bin/env python
 #--------------------------------------------------------------------------------------------------------
-# Name: User Manager
+# Name: Lite User Manager
 # Description: A simple front-end for user password and group management
-# Authors: John Jenkins, Jerry Bezencon, Ralphy, Vladislav Bychkov
+# Copyright 2008 Michael Towers <gradgrind[at]online[dot]de>
+# Modified for Linux Lite by: John Jenkins, Jerry Bezencon, Ralphy, Vladislav Bychkov
 # Website: https://www.linuxliteos.com
+# Linux Lite Dev Team. Distributed under the GNU GPL v2
 #--------------------------------------------------------------------------------------------------------
 
 import gtk
