@@ -3,9 +3,11 @@
 # Name: Lite User Manager
 # Description: A simple front-end for user password and group management
 # Copyright 2008 Michael Towers <gradgrind[at]online[dot]de>
-# Modified for Linux Lite by: John Jenkins, Jerry Bezencon, Ralphy, Vladislav Bychkov
+# Copyright 2013 Johnathan Jenkins <twodopeshaggy@gmail.com>
+# Copyright 2013-2017 Linux Lite Dev Team
+# Authors: Jerry Bezencon, Ralphy, Vladislav Bychkov
 # Website: https://www.linuxliteos.com
-# Linux Lite Dev Team. Distributed under the GNU GPL v2
+# Distributed under the GNU GPL v2
 #--------------------------------------------------------------------------------------------------------
 
 import gtk
@@ -217,7 +219,7 @@ class About(gtk.Frame):
         label = gtk.Label()
         label.set_line_wrap(True)
         #label.set_alignment(0.0, 0.5)
-        label.set_markup(abouttext + '\nCopyright (c) 2008   Michael Towers\nCopyright (c) 2017   <a href=\"http://www.linuxliteos.com/code.html\">Linux Lite Dev Team</a>')
+        label.set_markup(abouttext + '\nCopyright (c) 2008   Michael Towers\nCopyright (c) 2017   <a href=\"http://www.linuxliteos.com/">Linux Lite Dev Team</a>')
 
         box.pack_start(label)
         self.add(box)
