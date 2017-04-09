@@ -3,7 +3,7 @@ Version: 2.0-0060-linuxlite
 Essential: yes
 Section: base
 Priority: required
-Installed-Size: 26
+Installed-Size: 34.6
 Depends: menu, python-pexpect
 Homepage: http://www.linuxliteos.com
 Maintainer: Jerry Bezencon <valtam@linuxliteos.com> Vladislav Bychkov Ralphy<postmaster@unlockforus.com>
