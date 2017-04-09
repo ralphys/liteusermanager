@@ -6,7 +6,7 @@ Priority: required
 Installed-Size: 34.6
 Depends: menu, python-pexpect
 Homepage: http://www.linuxliteos.com
-Maintainer: Jerry Bezencon <valtam@linuxliteos.com> Vladislav Bychkov Ralphy<postmaster@unlockforus.com>
+Maintainer: Jerry Bezencon <valtam@linuxliteos.com>
 Architecture: all
 Description: Linux Lite User Manager
  A tool to help you easily manage users and groups on Linux Lite.
