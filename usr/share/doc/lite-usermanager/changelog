@@ -1,0 +1,10 @@
+lite-usermanager (2.0-0060-linuxlite) citrine; urgency=medium
+
+  * Fix URL link
+  * Update credits
+  * Rewording
+  * UI changes
+  * Error checking
+  * New Menu icon
+
+ -- Jerry Bezencon <valtam@linuxliteos.com>  Sun, 09 Apr 2017 21:15:56 +1200
