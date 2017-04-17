@@ -9,7 +9,7 @@ A tool to help you easily manage users and groups on Linux Lite.
 
 This project is under the GPLv2 license.
 
-##Authors 
+## Authors 
 - [Jerry Bezencon](https://github.com/linuxlite/)
 - [Johnathan Jenkins](https://github.com/shaggytwodope/)
 - [Ralphy](https://github.com/ralphys/)
